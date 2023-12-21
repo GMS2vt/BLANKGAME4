@@ -6,3 +6,6 @@ Project
 1234
 
 5678
+
+
+https://manual.gamemaker.io/monthly/en/#t=GameMaker_Language%2FGML_Overview%2FVariables_And_Variable_Scope.htm

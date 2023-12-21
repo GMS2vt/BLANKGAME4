@@ -20,7 +20,10 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"Note","path":"notes/Note/Note.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
