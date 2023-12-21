@@ -1,11 +1,14 @@
 {
   "FolderOrderSettings": [
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Sprite","order":16,"path":"folders/Sprite.yy",},
+    {"name":"Fonts","order":18,"path":"folders/Fonts.yy",},
+    {"name":"Objects","order":19,"path":"folders/Objects.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Sprite1","order":12,"path":"sprites/Sprite1/Sprite1.yy",},
-    {"name":"Script1","order":14,"path":"scripts/Script1/Script1.yy",},
+    {"name":"Object_button_play","order":1,"path":"objects/Object_button_play/Object_button_play.yy",},
+    {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"Note","order":11,"path":"notes/Note/Note.yy",},
-    {"name":"Object1","order":13,"path":"objects/Object1/Object1.yy",},
+    {"name":"Start","order":13,"path":"objects/Start/Start.yy",},
   ],
 }
