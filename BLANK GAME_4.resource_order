@@ -4,10 +4,12 @@
     {"name":"Objects","order":19,"path":"folders/Objects.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Sprite","order":16,"path":"folders/Sprite.yy",},
+    {"name":"Obj_button_help","order":5,"path":"folders/Objects/Obj_button_help.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
+    {"name":"obj_help_kiiras","order":1,"path":"objects/obj_help_kiiras/obj_help_kiiras.yy",},
+    {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
+    {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
     {"name":"Note","order":11,"path":"notes/Note/Note.yy",},
-    {"name":"obj_start","order":13,"path":"objects/obj_start/obj_start.yy",},
   ],
 }

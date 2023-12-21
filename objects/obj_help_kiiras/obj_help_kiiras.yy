@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_start",
+  "name": "obj_help_kiiras",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "BLANK GAME_4",
-    "path": "BLANK GAME_4.yyp",
+    "name": "Obj_button_help",
+    "path": "folders/Objects/Obj_button_help.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -12,7 +12,7 @@ eélőbb megrajzolja a spriteot, utána írja majd csak rá a textet, ezért el�
 draw_sprite, aztá na draw_text*/
 draw_sprite(spr_menu,0,x,y); 
 
-var button_text = "Start" // <-- evlőbb csinálj egy variánst amiben megadod az értéket. "string"
+// var button_text = "Start" // <-- evlőbb csinálj egy variánst amiben megadod az értéket. "string"
 draw_text(x,y, button_text); 
 
 
