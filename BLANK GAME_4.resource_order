@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Note","order":11,"path":"notes/Note/Note.yy",},
+  ],
+}
