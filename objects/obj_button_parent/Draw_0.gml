@@ -1,4 +1,4 @@
-// draw_self(); <-- csak akkor kell ha van beállítva az objectnek "sprite"
+draw_self(); //<-- csak akkor kell ha van beállítva az objectnek "sprite"
 
 
 draw_set_font(mFont);
@@ -10,7 +10,7 @@ draw_set_valign(fa_middle);
 /* Ezzel tudsz spriteot rajzolni, fontos hogy a sorrend számít,
 eélőbb megrajzolja a spriteot, utána írja majd csak rá a textet, ezért előbb:
 draw_sprite, aztá na draw_text*/
-draw_sprite(spr_menu,0,x,y); 
+// draw_sprite(spr_menu,0,x,y); 
 
 // var button_text = "Start" // <-- evlőbb csinálj egy variánst amiben megadod az értéket. "string"
 draw_text(x,y, button_text); 

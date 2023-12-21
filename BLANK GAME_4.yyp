@@ -13,9 +13,9 @@
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_button_help","folderPath":"folders/Objects/Obj_button_help.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite","folderPath":"folders/Sprite.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_button_help","folderPath":"folders/Objects/Obj_button_help.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,

@@ -2,9 +2,9 @@
   "FolderOrderSettings": [
     {"name":"Fonts","order":18,"path":"folders/Fonts.yy",},
     {"name":"Objects","order":19,"path":"folders/Objects.yy",},
+    {"name":"Obj_button_help","order":5,"path":"folders/Objects/Obj_button_help.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Sprite","order":16,"path":"folders/Sprite.yy",},
-    {"name":"Obj_button_help","order":5,"path":"folders/Objects/Obj_button_help.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_help_kiiras","order":1,"path":"objects/obj_help_kiiras/obj_help_kiiras.yy",},
