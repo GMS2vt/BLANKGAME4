@@ -8,8 +8,12 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_help_kiiras","order":1,"path":"objects/obj_help_kiiras/obj_help_kiiras.yy",},
+    {"name":"spr_background","order":3,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"spr_card_base","order":2,"path":"sprites/spr_card_base/spr_card_base.yy",},
+    {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
     {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
+    {"name":"cFont","order":1,"path":"fonts/cFont/cFont.yy",},
     {"name":"Note","order":11,"path":"notes/Note/Note.yy",},
   ],
 }
