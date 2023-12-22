@@ -11,6 +11,7 @@
     {"name":"spr_background","order":3,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_card_deck","order":22,"path":"sprites/spr_card_deck/spr_card_deck.yy",},
     {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
+    {"name":"spr_card_back","order":23,"path":"sprites/spr_card_back/spr_card_back.yy",},
     {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
     {"name":"cFont","order":1,"path":"fonts/cFont/cFont.yy",},
