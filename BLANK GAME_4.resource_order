@@ -14,7 +14,9 @@
     {"name":"spr_card_back","order":23,"path":"sprites/spr_card_back/spr_card_back.yy",},
     {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
+    {"name":"obj_deck","order":6,"path":"objects/obj_deck/obj_deck.yy",},
     {"name":"cFont","order":1,"path":"fonts/cFont/cFont.yy",},
     {"name":"Note","order":11,"path":"notes/Note/Note.yy",},
+    {"name":"obj_playercard_1","order":7,"path":"objects/obj_playercard_1/obj_playercard_1.yy",},
   ],
 }
