@@ -20,7 +20,7 @@ draw_text(x,y, button_text); // ++ Láttam hogy Variable Definition-ként állí
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 
-
+// Tomi 123
 // a // jel a commentelés a kódsorban
 
 /* is kommentelés csak ezzel addig kommentellsz
