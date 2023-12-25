@@ -1,6 +1,6 @@
-szam = (15*4)-1;
+szam = 51;
 image_speed = 0;
-repeat(53){
+repeat(51){
 	deck[szam] = [0, 0, 0];
 	szam -=1;
 }
@@ -16,3 +16,26 @@ for(i = 1;i < 14;i++){
 		indeksz++;
 	}
 }
+show_debug_message(array_length(deck));
+seged = [0,0,0];
+randomszam = 0;
+for(k = 0; k < array_length(deck) ; k++){
+	seged[0] = deck[k][0];
+	seged[1] = deck[k][1];
+	seged[2] = deck[k][2];
+	
+	do
+	{
+		randomszam = round(random(array_length(deck)-1));
+	}until(randomszam != k);
+	deck[k][0] = deck[randomszam][0];
+	deck[k][1] = deck[randomszam][1];
+	deck[k][2] = deck[randomszam][2];
+	
+	deck[randomszam][0] = seged[0];
+	deck[randomszam][1] = seged[1];
+	deck[randomszam][2] = seged[2];
+	
+}
+deckindex = 0;
+image_index = deck[deckindex][0];
