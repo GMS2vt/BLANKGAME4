@@ -17,6 +17,5 @@
     {"name":"obj_deck","order":6,"path":"objects/obj_deck/obj_deck.yy",},
     {"name":"cFont","order":1,"path":"fonts/cFont/cFont.yy",},
     {"name":"Note","order":11,"path":"notes/Note/Note.yy",},
-    {"name":"obj_playercard_1","order":7,"path":"objects/obj_playercard_1/obj_playercard_1.yy",},
   ],
 }

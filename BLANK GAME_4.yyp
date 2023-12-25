@@ -37,7 +37,6 @@
     {"id":{"name":"cFont","path":"fonts/cFont/cFont.yy",},},
     {"id":{"name":"Note","path":"notes/Note/Note.yy",},},
     {"id":{"name":"obj_button_help","path":"objects/obj_button_help/obj_button_help.yy",},},
-    {"id":{"name":"obj_playercard_1","path":"objects/obj_playercard_1/obj_playercard_1.yy",},},
     {"id":{"name":"mFont","path":"fonts/mFont/mFont.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
