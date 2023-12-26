@@ -1,5 +1,5 @@
 szam = 51;
-image_speed = 0;
+
 repeat(51){
 	deck[szam] = [0, 0, 0];
 	szam -=1;
@@ -38,4 +38,6 @@ for(k = 0; k < array_length(deck) ; k++){
 	
 }
 deckindex = 0;
-image_index = deck[deckindex][0];
+
+
+

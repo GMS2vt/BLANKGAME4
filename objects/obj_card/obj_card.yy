@@ -1,16 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_deck",
+  "name": "obj_card",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":56,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "BLANK GAME_4",
-    "path": "BLANK GAME_4.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,9 +30,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_card_back",
-    "path": "sprites/spr_card_back/spr_card_back.yy",
+    "name": "spr_card_deck",
+    "path": "sprites/spr_card_deck/spr_card_deck.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_card_deck",
+    "path": "sprites/spr_card_deck/spr_card_deck.yy",
+  },
   "visible": true,
 }
