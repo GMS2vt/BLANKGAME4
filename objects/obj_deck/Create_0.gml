@@ -4,7 +4,7 @@ repeat(51){
 	deck[szam] = [0, 0, 0];
 	szam -=1;
 }
-indeksz = 0;
+indeksz = 1;
 jel = 0;
 for(i = 1;i < 14;i++){
 	for(jel = 0; jel < 4; jel++){
@@ -19,7 +19,7 @@ for(i = 1;i < 14;i++){
 show_debug_message(array_length(deck));
 seged = [0,0,0];
 randomszam = 0;
-for(k = 0; k < array_length(deck) ; k++){
+for(k = 1; k < array_length(deck) ; k++){
 	seged[0] = deck[k][0];
 	seged[1] = deck[k][1];
 	seged[2] = deck[k][2];
@@ -37,7 +37,7 @@ for(k = 0; k < array_length(deck) ; k++){
 	deck[randomszam][2] = seged[2];
 	
 }
-deckindex = 0;
+deckindex = 1;
 
 
 
