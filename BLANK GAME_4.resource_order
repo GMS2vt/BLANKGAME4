@@ -4,8 +4,8 @@
     {"name":"Objects","order":19,"path":"folders/Objects.yy",},
     {"name":"Obj_button_help","order":3,"path":"folders/Objects/Obj_button_help.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
-    {"name":"Sprite","order":16,"path":"folders/Sprite.yy",},
     {"name":"Sounds","order":24,"path":"folders/Sounds.yy",},
+    {"name":"Sprite","order":16,"path":"folders/Sprite.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_player_card_2","order":7,"path":"objects/obj_player_card_2/obj_player_card_2.yy",},
