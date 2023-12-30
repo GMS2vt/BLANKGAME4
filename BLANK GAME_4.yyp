@@ -39,6 +39,7 @@
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
     {"id":{"name":"snd_card_hower","path":"sounds/snd_card_hower/snd_card_hower.yy",},},
     {"id":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},},
+    {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},},
     {"id":{"name":"obj_player_card_1","path":"objects/obj_player_card_1/obj_player_card_1.yy",},},
     {"id":{"name":"spr_menu","path":"sprites/spr_menu/spr_menu.yy",},},
     {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},},

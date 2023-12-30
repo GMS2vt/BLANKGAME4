@@ -21,6 +21,7 @@
     {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"snd_card_hower","order":3,"path":"sounds/snd_card_hower/snd_card_hower.yy",},
     {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
+    {"name":"spr_logo","order":25,"path":"sprites/spr_logo/spr_logo.yy",},
     {"name":"obj_player_card_1","order":6,"path":"objects/obj_player_card_1/obj_player_card_1.yy",},
     {"name":"obj_card","order":4,"path":"objects/obj_card/obj_card.yy",},
     {"name":"cFont","order":1,"path":"fonts/cFont/cFont.yy",},
