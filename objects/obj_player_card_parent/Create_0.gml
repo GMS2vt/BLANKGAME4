@@ -1,6 +1,7 @@
 card = [0,-1,-1]
 image_speed = 0;
 
+global.hand = 0;
 
 _start_x = x;
 _start_y = y;

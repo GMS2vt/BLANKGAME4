@@ -16,6 +16,8 @@
     {"name":"inst_1B598A1E","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_67D599D","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_792DE8C","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_49625874","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_4628F709","path":"rooms/rm_game/rm_game.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -30,6 +32,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B598A1E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"_obj_card_animation","path":"objects/_obj_card_animation/_obj_card_animation.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1356.0,"y":760.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_67D599D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_goblin","path":"objects/obj_goblin/obj_goblin.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":180.0,"y":492.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_792DE8C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_home_button","path":"objects/obj_home_button/obj_home_button.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1304.0,"y":48.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_49625874","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_gold","path":"objects/obj_gold/obj_gold.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":188.0,"y":88.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4628F709","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_button_bet","path":"objects/obj_button_bet/obj_button_bet.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1144.0,"y":572.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

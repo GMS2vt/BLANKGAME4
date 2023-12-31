@@ -2,9 +2,9 @@
 // You can write your code in this editor
 
 
-hold = true;
 
-obj_cursor.image_index = 1;
+
+draw_sprite_ext(spr_gold,0,x,y,.6,.6,0,c_white,1);
 
 
 

@@ -1,12 +1,14 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_home_button",
+  "name": "obj_button_bet",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"value":"BET (-100)",},
+  ],
   "parent": {
     "name": "Buttons",
     "path": "folders/User Interface/Buttons.yy",
@@ -31,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_home",
-    "path": "sprites/spr_home/spr_home.yy",
+    "name": "spr_menu",
+    "path": "sprites/spr_menu/spr_menu.yy",
   },
   "spriteMaskId": null,
   "visible": true,

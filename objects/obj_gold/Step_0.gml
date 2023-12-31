@@ -2,9 +2,12 @@
 // You can write your code in this editor
 
 
-hold = true;
 
-obj_cursor.image_index = 1;
 
+if rot < 364 {
+rot ++;
+} else {
+	rot = 0;	
+}
 
 
