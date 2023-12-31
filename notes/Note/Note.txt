@@ -9,3 +9,13 @@ Project
 
 
 https://manual.gamemaker.io/monthly/en/#t=GameMaker_Language%2FGML_Overview%2FVariables_And_Variable_Scope.htm
+
+
+
+BOT
+[2] [4] []
+	
+			[x]ADU [PAKLI]
+				
+[8] [7] []
+PLAYER

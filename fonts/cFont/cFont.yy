@@ -120,7 +120,11 @@
   "maintainGms1Font": false,
   "parent": {
     "name": "Fonts",
+<<<<<<< Updated upstream
     "path": "folders/User Interface/Fonts.yy",
+=======
+    "path": "folders/Trash/Fonts.yy",
+>>>>>>> Stashed changes
   },
   "pointRounding": 0,
   "ranges": [

@@ -14,8 +14,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
+<<<<<<< Updated upstream
     "name": "Buttons",
     "path": "folders/User Interface/Buttons.yy",
+=======
+    "name": "Objects",
+    "path": "folders/Trash/Objects.yy",
+>>>>>>> Stashed changes
   },
   "parentObjectId": null,
   "persistent": false,

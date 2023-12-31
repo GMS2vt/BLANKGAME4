@@ -49,7 +49,7 @@
   "origin": 4,
   "parent": {
     "name": "Sprite",
-    "path": "folders/Sprite.yy",
+    "path": "folders/Trash/Sprite.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
