@@ -11,7 +11,7 @@
   ],
   "parent": {
     "name": "Obj_button_help",
-    "path": "folders/Objects/Obj_button_help.yy",
+    "path": "folders/User Interface/Buttons/Obj_button_help.yy",
   },
   "parentObjectId": {
     "name": "obj_button_parent",

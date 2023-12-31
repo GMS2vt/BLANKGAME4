@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Obj_button_help",
-    "path": "folders/Objects/Obj_button_help.yy",
+    "path": "folders/User Interface/Buttons/Obj_button_help.yy",
   },
   "parentObjectId": null,
   "persistent": false,

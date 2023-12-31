@@ -39,5 +39,6 @@ for(k = 1; k < array_length(deck) ; k++){
 }
 deckindex = 1;
 
-
+global.game = false;
+alarm[0] = 200;
 
