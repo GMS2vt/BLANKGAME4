@@ -9,5 +9,5 @@ image_yscale = 1.6;
 
 image_alpha = 1;
 
-
-
+index = 0;
+free = true;

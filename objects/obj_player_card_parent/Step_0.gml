@@ -13,6 +13,7 @@ if image_index > 0 {
 				_sound_is_played = true;
 			}
 		}
+		
 		image_xscale = lerp(image_xscale,1.8,0.1);
 		image_yscale = lerp(image_xscale,1.8,0.1);	
 	} else {

@@ -7,6 +7,8 @@ if place_meeting( x, y, obj_player_card_parent) {
 			image_xscale = lerp(image_xscale,1.6,0.1);
 			image_yscale = lerp(image_xscale,1.6,0.1);	
 			image_alpha = .6;
+			
+			index = obj_player_card_parent.card = [0];
 		} else {
 			image_xscale = lerp(image_xscale,1.4,0.1);
 			image_yscale = lerp(image_xscale,1.4,0.1);	

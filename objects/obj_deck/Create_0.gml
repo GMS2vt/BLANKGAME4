@@ -41,4 +41,5 @@ deckindex = 1;
 
 global.game = false;
 alarm[0] = 200;
+alarm[1] = 100;
 
