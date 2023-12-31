@@ -1,13 +1,13 @@
 {
   "FolderOrderSettings": [
-    {"name":"Fonts","order":4,"path":"folders/User Interface/Fonts.yy",},
     {"name":"Objects","order":4,"path":"folders/Objects.yy",},
-    {"name":"Sounds","order":3,"path":"folders/User Interface/Music/Sounds.yy",},
     {"name":"Sprite","order":2,"path":"folders/Sprite.yy",},
-    {"name":"Music","order":5,"path":"folders/User Interface/Music.yy",},
-    {"name":"Animation","order":3,"path":"folders/User Interface/Animation.yy",},
     {"name":"User Interface","order":7,"path":"folders/User Interface.yy",},
+    {"name":"Animation","order":3,"path":"folders/User Interface/Animation.yy",},
     {"name":"Buttons","order":7,"path":"folders/User Interface/Buttons.yy",},
+    {"name":"Fonts","order":4,"path":"folders/User Interface/Fonts.yy",},
+    {"name":"Music","order":5,"path":"folders/User Interface/Music.yy",},
+    {"name":"Sounds","order":3,"path":"folders/User Interface/Music/Sounds.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_button_parent","order":3,"path":"objects/obj_button_parent/obj_button_parent.yy",},
