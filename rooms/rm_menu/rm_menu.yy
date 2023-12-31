@@ -29,7 +29,7 @@
   ],
   "parent": {
     "name": "Rooms",
-    "path": "folders/Trash/Rooms.yy",
+    "path": "folders/Rooms.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

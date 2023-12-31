@@ -37,16 +37,8 @@ for(k = 1; k < array_length(deck) ; k++){
 	deck[randomszam][2] = seged[2];
 	
 }
-<<<<<<< Updated upstream
 deckindex = 1;
 
 global.game = false;
 alarm[0] = 200;
-=======
-deckindex = 0;
-
-alarm[0] = 10;
-
-player_hand = [];
->>>>>>> Stashed changes
 

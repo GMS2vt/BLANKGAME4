@@ -1,6 +1,5 @@
 {
   "FolderOrderSettings": [
-<<<<<<< Updated upstream
     {"name":"Objects","order":4,"path":"folders/Objects.yy",},
     {"name":"Sprite","order":2,"path":"folders/Sprite.yy",},
     {"name":"User Interface","order":7,"path":"folders/User Interface.yy",},
@@ -9,20 +8,12 @@
     {"name":"Fonts","order":4,"path":"folders/User Interface/Fonts.yy",},
     {"name":"Music","order":5,"path":"folders/User Interface/Music.yy",},
     {"name":"Sounds","order":3,"path":"folders/User Interface/Music/Sounds.yy",},
-=======
-    {"name":"Objects","order":3,"path":"folders/Trash/Objects.yy",},
-    {"name":"Obj_button_help","order":5,"path":"folders/Trash/Objects/Obj_button_help.yy",},
-    {"name":"Rooms","order":2,"path":"folders/Trash/Rooms.yy",},
-    {"name":"Sprite","order":1,"path":"folders/Trash/Sprite.yy",},
-    {"name":"Trash","order":7,"path":"folders/Trash.yy",},
->>>>>>> Stashed changes
   ],
   "ResourceOrderSettings": [
     {"name":"obj_button_parent","order":3,"path":"objects/obj_button_parent/obj_button_parent.yy",},
     {"name":"obj_player_card_2","order":7,"path":"objects/obj_player_card_2/obj_player_card_2.yy",},
     {"name":"obj_player_card_parent","order":9,"path":"objects/obj_player_card_parent/obj_player_card_parent.yy",},
     {"name":"obj_help_kiiras","order":1,"path":"objects/obj_help_kiiras/obj_help_kiiras.yy",},
-<<<<<<< Updated upstream
     {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"_obj_card_animation","order":2,"path":"objects/_obj_card_animation/_obj_card_animation.yy",},
     {"name":"spr_card_deck","order":2,"path":"sprites/spr_card_deck/spr_card_deck.yy",},
@@ -44,17 +35,5 @@
     {"name":"snd_main_music","order":1,"path":"sounds/snd_main_music/snd_main_music.yy",},
     {"name":"obj_player_card_3","order":8,"path":"objects/obj_player_card_3/obj_player_card_3.yy",},
     {"name":"snd_card_click2","order":1,"path":"sounds/snd_card_click2/snd_card_click2.yy",},
-=======
-    {"name":"spr_background","order":3,"path":"sprites/spr_background/spr_background.yy",},
-    {"name":"spr_card_deck","order":3,"path":"sprites/spr_card_deck/spr_card_deck.yy",},
-    {"name":"rm_game","order":8,"path":"rooms/rm_game/rm_game.yy",},
-    {"name":"obj_deck","order":5,"path":"objects/obj_deck/obj_deck.yy",},
-    {"name":"spr_card_back","order":4,"path":"sprites/spr_card_back/spr_card_back.yy",},
-    {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
-    {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
-    {"name":"obj_card","order":6,"path":"objects/obj_card/obj_card.yy",},
-    {"name":"cFont","order":1,"path":"fonts/cFont/cFont.yy",},
-    {"name":"Note","order":1,"path":"notes/Note/Note.yy",},
->>>>>>> Stashed changes
   ],
 }

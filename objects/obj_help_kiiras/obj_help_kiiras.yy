@@ -9,11 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Obj_button_help",
-<<<<<<< Updated upstream
     "path": "folders/User Interface/Buttons/Obj_button_help.yy",
-=======
-    "path": "folders/Trash/Objects/Obj_button_help.yy",
->>>>>>> Stashed changes
   },
   "parentObjectId": null,
   "persistent": false,

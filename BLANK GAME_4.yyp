@@ -11,7 +11,6 @@
   },
   "defaultScriptType": 1,
   "Folders": [
-<<<<<<< Updated upstream
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite","folderPath":"folders/Sprite.yy",},
@@ -22,14 +21,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/User Interface/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Music","folderPath":"folders/User Interface/Music.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/User Interface/Music/Sounds.yy",},
-=======
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Trash/Fonts.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Trash/Objects.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_button_help","folderPath":"folders/Trash/Objects/Obj_button_help.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Trash/Rooms.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite","folderPath":"folders/Trash/Sprite.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Trash","folderPath":"folders/Trash.yy",},
->>>>>>> Stashed changes
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -72,8 +63,8 @@
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
